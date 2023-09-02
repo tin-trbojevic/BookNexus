@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">BookNexus</string>
+    <string name="image_description_logo">BookNexus Logo</string>
+    <string name="button_all_books">All Books</string>
+    <string name="button_currently_reading_books">Currently Reading Books</string>
+    <string name="button_already_read_books">Already Read Books</string>
+    <string name="button_wishlist">Wishlist</string>
+    <string name="button_features">Favourites</string>
+    <string name="button_about">ABOUT</string>
 </resources>
