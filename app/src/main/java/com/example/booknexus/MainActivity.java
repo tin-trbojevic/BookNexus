@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
         alreadyReadBooksButton = findViewById(R.id.already_read_books_button);
         wishlistBooksButton = findViewById(R.id.wish_list_books_button);
         favouritesBooksButton = findViewById(R.id.favourites_books_button);
-        aboutButton = findViewById(R.id.about_button);
+
     }
 
     @Override

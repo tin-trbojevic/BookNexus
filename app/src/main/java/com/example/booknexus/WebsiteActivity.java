@@ -32,7 +32,9 @@ public class WebsiteActivity extends AppCompatActivity {
 
             @Override
             public void onPageFinished(WebView view, String url) {
+                //Hide loading dialog
                 findViewById(R.id.website_web_view).setVisibility(View.VISIBLE);
+                // Show web view
                 findViewById(R.id.website_loading_panel).setVisibility(View.GONE);
             }
         });
